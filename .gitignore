@@ -51,4 +51,9 @@ LocalDatabase.db
 Properties/
 
 # Visual Studio cache/options directory
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+/LocalDatabase.db-shm
+>>>>>>> 1d0c3ea (ama feature : refactoringinitial  solutionCreate README.md)
